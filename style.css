@@ -1,0 +1,10 @@
+
+
+/* head section */
+.head_sec{
+    text-align: center;
+    padding: 20px;
+}
+.head_sec > img{
+    height: 101px;
+}
