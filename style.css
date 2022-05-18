@@ -33,7 +33,8 @@ div{
     /* background-color: red; */
     margin-bottom: 40px !important;
     display: inline-block;
-    width: 25%;
+    width: 400px;
+    max-width: 25%;
     margin: auto;
 }
 .product_content{
@@ -106,12 +107,14 @@ div{
 }
 @media only screen and (max-width: 1600px) {
     .product{
-        width: 33.3333333%;
+        width: 400px;
+        max-width: 33.3333333%;
     }
 }
 @media only screen and (max-width: 1100px) {
     .product{
-        width: 50%;
+        width: 400px;
+        max-width: 50%;
     }
 }
 @media only screen and (max-width: 800px) {
